@@ -1,0 +1,12 @@
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[22201:22238:0130/004048.672161:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[22201:22238:0130/004139.651918:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1:27:0130/004139.702098:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[22201:22238:0130/004410.802071:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[22201:22238:0130/004414.900085:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[22201:22238:0130/004416.466198:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[22201:22238:0130/004418.981740:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[22201:22238:0130/004643.074495:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[22201:22238:0130/004753.952292:ERROR:service_manager.cc(157)] Connection InterfaceProviderSpec prevented service: content_renderer from binding interface: blink::mojom::ReportingServiceProxy exposed by: content_browser
+[1:27:0130/004753.997533:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
